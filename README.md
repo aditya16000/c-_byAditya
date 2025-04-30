@@ -1,2 +1,2 @@
-# c-_byAditya
+# c++_byAditya
 it contain c++ basic.
